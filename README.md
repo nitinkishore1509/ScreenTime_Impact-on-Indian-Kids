@@ -37,7 +37,7 @@ Excessive screen time is increasingly linked to **reduced productivity, poor sle
 ---
 
 ### 2️⃣ Screen Time vs. Sleep Hours
-![Screen Time vs Sleep](plots/plot_2.png)
+![Screen Time vs Sleep](/plot_2.png)
 
 - Clear **negative correlation** between screen time and average sleep duration.  
 - High screen time often coincides with reduced sleep.
@@ -45,7 +45,7 @@ Excessive screen time is increasingly linked to **reduced productivity, poor sle
 ---
 
 ### 3️⃣ Weekly Trends
-![Weekly Trends](plots/plot_3.png)
+![Weekly Trends](/plot_3.png)
 
 - Weekend spikes indicate higher entertainment usage.  
 - Weekdays show more consistent work-related screen time.
@@ -53,7 +53,7 @@ Excessive screen time is increasingly linked to **reduced productivity, poor sle
 ---
 
 ### 4️⃣ Age Group Comparison
-![Age Group Comparison](plots/plot_4.png)
+![Age Group Comparison](/plot_4.png)
 
 - Younger participants (18–25) exhibit **higher average screen time**.  
 - Older groups maintain steadier and lower usage patterns.
@@ -61,7 +61,7 @@ Excessive screen time is increasingly linked to **reduced productivity, poor sle
 ---
 
 ### 5️⃣ Productivity Impact
-![Productivity Impact](plots/plot_5.png)
+![Productivity Impact](/plot_5.png)
 
 - Productivity drops sharply when screen time exceeds **8 hours**.  
 - Moderate usage (4–6 hours) aligns with peak productivity.
