@@ -68,25 +68,7 @@ Excessive screen time is increasingly linked to **reduced productivity, poor sle
 
 ---
 
-## 🚀 Getting Started
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/<your-username>/ScreenTime_Impact.git
-cd ScreenTime_Impact
-```
-
-### 2️⃣ Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run the notebook
-```bash
-jupyter notebook ScreenTime_Impact.ipynb
-```
-
----
+--
 
 ## 📌 Key Findings
 - Average daily screen time exceeds **6 hours** for most participants  
@@ -95,11 +77,4 @@ jupyter notebook ScreenTime_Impact.ipynb
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file.
 
----
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome!  
-Open a pull request or report bugs.
