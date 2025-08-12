@@ -29,7 +29,7 @@ Excessive screen time is increasingly linked to **reduced productivity, poor sle
 ## 📊 Analysis Highlights
 
 ### 1️⃣ Screen Time Distribution
-![Screen Time Distribution](plots/plot_1.png)
+![Screen Time Distribution](/plot_1.png)
 
 - Shows the spread of daily screen time usage among participants.  
 - Most participants fall between **4–8 hours per day**.
